@@ -76,4 +76,15 @@ body {
 #upper-space {
   padding-top: 130px;
 }
+.container-1 {
+            background: url('cv.png');
+            width: 250px;
+            height: 300px;
+            background-repeat: no-repeat;
+            background-size: contain;
+            border: 0.25rem solid black;
+            margin-left: 10%;
+            margin-top: 5%;
+            margin-right: 10%;
+        }
 /* end*/
