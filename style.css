@@ -76,15 +76,4 @@ body {
 #upper-space {
   padding-top: 130px;
 }
-.container_1 {
-            background: url('Capture.PNG');
-            width: 750px;
-            height: 750px;
-            background-repeat: no-repeat;
-            background-size: contain;
-            border: 0.25rem solid black;
-            margin-left: 10%;
-            margin-top: 5%;
-            margin-right: 10%;
-        }
 /* end*/
