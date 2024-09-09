@@ -76,10 +76,10 @@ body {
 #upper-space {
   padding-top: 130px;
 }
-.container-1 {
+.container_1 {
             background: url('Capture.PNG');
-            width: 250px;
-            height: 300px;
+            width: 750px;
+            height: 750px;
             background-repeat: no-repeat;
             background-size: contain;
             border: 0.25rem solid black;
